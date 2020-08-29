@@ -1,6 +1,10 @@
 # SQL 101
 Repositorio para la serie de charlas SQL 101
 
+### BD de ejemplo:
+Para esta serie de charlas hemos usado la bd Northwind de sql server, se encuentra en este repositorio.
+Descargala de este [link]([Descargar PPT](https://github.com/damiancipolat/SQL_101/blob/master/SQL%20101%20_%20Parte%201.pptx)).
+
 ### Diapositivas
 - **Parte 1**:
   - [Descargar PPT](https://github.com/damiancipolat/SQL_101/blob/master/SQL%20101%20_%20Parte%201.pptx)
