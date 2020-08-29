@@ -31,6 +31,7 @@ Para esta serie de charlas hemos usado la bd Northwind de sql server, se encuent
 
 - **Parte 2**:
   - [Descargar PPT](https://github.com/damiancipolat/SQL_101/blob/master/SQL%20101%20_%20Parte%202.pptx)
+  - [Descargar querys](https://github.com/damiancipolat/SQL_101/blob/master/querys_parte_2.sql)
   - Agregación
     - COUNT
     - MIN
