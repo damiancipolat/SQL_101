@@ -3,6 +3,7 @@ Repositorio para la serie de charlas SQL 101
 
 ## Diapositivas
 - **Parte 1**:
+  - [Link de descarga](./SQL 101 _ Parte 1.pptx)
   - Introducción a SQL ANSI
     - Motores BD
   - Comandos
@@ -23,6 +24,7 @@ Repositorio para la serie de charlas SQL 101
     - N a N
 
 - **Parte 2**:
+  - [Link de descarga](./SQL 101 _ Parte 2.pptx)
   - Agregación
     - COUNT
     - MIN
