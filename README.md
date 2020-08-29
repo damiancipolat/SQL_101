@@ -3,7 +3,7 @@ Repositorio para la serie de charlas SQL 101
 
 ## Diapositivas
 - **Parte 1**:
-  - [Link de descarga](./SQL 101_Parte_1.pptx)
+  - [I'm an inline-style link](https://www.google.com)
   - Introducción a SQL ANSI
     - Motores BD
   - Comandos
