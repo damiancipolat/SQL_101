@@ -1,7 +1,7 @@
 # SQL 101
 Repositorio para la serie de charlas SQL 101
 
-## Diapositivas
+### Diapositivas
 - **Parte 1**:
   - [Descargar PPT](https://github.com/damiancipolat/SQL_101/blob/master/SQL%20101%20_%20Parte%201.pptx)
   - Introducción a SQL ANSI
