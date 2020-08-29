@@ -1,6 +1,6 @@
 # SQL 101
 Repositorio para la serie de charlas SQL 101.
-dasdasdas sdfsdfsd sdfsdfs
+Estas charlas son para un nivel de SQL basico.
 
 ### BD de ejemplo:
 Para esta serie de charlas hemos usado la bd Northwind de sql server, se encuentra en este repositorio.
