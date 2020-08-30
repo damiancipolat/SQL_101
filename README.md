@@ -41,3 +41,8 @@ Para esta serie de charlas hemos usado la bd Northwind de sql server, se encuent
     - HAVING
       - DELETE
       - UPDATE
+
+### Ejercicios:
+1) asdsadasdasdasd
+2) asdasdasdsad
+3) asdsadasdasd
